@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "8764904132",
+    "project_id": "mapsmlpractice",
+    "storage_bucket": "mapsmlpractice.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8764904132:android:41d7fa3b7e334dbd266f91",
+        "android_client_info": {
+          "package_name": "com.uteq.appmoviles.googlemapspractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8764904132-vtuo648lqqfq8uvgc5o3j7h1c3cfl24k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJzESluwuqSNwxhF7O3Up6DTWCAPWgmDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8764904132-vtuo648lqqfq8uvgc5o3j7h1c3cfl24k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
